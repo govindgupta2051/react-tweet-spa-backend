@@ -1,0 +1,10 @@
+{
+  "development": {
+    "PORT": 4030,
+    "MONGODB_URI": "mongodb://localhost:27017/twitter-demo-dev"
+  },
+  "twitter-app-info": {
+    "consumerKey": "",
+    "consumerSecret": ""
+  }
+}

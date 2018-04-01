@@ -1,0 +1,24 @@
+{
+  "name": "react-tweet-spa-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Govind Gupta",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "9.2.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.2.0",
+    "mongoose": "^5.0.12",
+    "passport": "^0.4.0",
+    "passport-twitter-token": "^1.3.0",
+    "request": "^2.85.0"
+  }
+}
